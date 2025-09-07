@@ -11,4 +11,4 @@ A responsive, modern calculator built with vanilla HTML, CSS, and JavaScript.
 - 🎯 Error handling for invalid operations
 - 💫 Smooth animations and transitions
 
-## Project Structure
+
